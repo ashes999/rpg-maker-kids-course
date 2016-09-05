@@ -25,5 +25,7 @@ This course builds on the basic course and teaches advanced topics useful to cre
 - Character skills, equipment, and progression
 - Shops and inns
 - Effects like grey-scale, rain, etc.
+- Custom battle engines
+- Keeping character names/faces consistent in dialogs
 
 We will also cover one advanced topic (student's choice), and a set of custom scripts and miscellania (eg. players choose their characters names).
