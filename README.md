@@ -6,8 +6,16 @@ Pre-requisite: kids need to know how to read (age 5+). For searching Google/Duck
 
 # Basic Course (5yo+)
 
-TBD
+The basic course introduces your five-plus year old to the essential skills required to create a small game.
+
+- Creating, customizing, and linking together a variety of maps
+- Generating characters, picking monsters to battle
+- Individualizing their game (title screen, colours, etc.)
+- Creating and finding sounds-effects and background audio
+- Battles, both random and game-specific (eg. bosses)
+
+By the end of the course, students will have created their own game using the skills learned (above).
 
 # Advanced Course (8yo+)
 
-Googling for scripts, download and test
+- TBD
