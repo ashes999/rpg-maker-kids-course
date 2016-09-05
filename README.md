@@ -22,4 +22,8 @@ By the end of the course, students will have created their own game using the sk
 This course builds on the basic course and teaches advanced topics useful to create larger, more detailed, and more complex/elaborate games:
 
 - Finding and integrating custom scripts
-- 
+- Character skills, equipment, and progression
+- Shops and inns
+- Effects like grey-scale, rain, etc.
+
+We will also cover one advanced topic (student's choice), and a set of custom scripts and miscellania (eg. players choose their characters names).
